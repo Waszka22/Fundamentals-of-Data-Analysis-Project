@@ -4,9 +4,14 @@ This repository is used for the project given by the lecture on
 Fundamentals of Data Analaysis module on Higher Diploma in Science in Computing in Data Analytics at ATU.  
 
 ### Table of content 
-* Part 1 Describe dataset ussing descriptive statiscic and plot 
+1. Introduction to notebook
+    
+2. Describe dataset ussing descriptive statiscic and plot 
+   + Reading dataset
    + Summary Statistics 
    + Data Visualization
+3. Exploring Data Relationships   
+4. Conclusion 
 
 
 ### Programing Language 
@@ -16,6 +21,7 @@ Fundamentals of Data Analaysis module on Higher Diploma in Science in Computing 
 * pandas 
 * matplotlib. pyplot 
 * seborn
+* numpy
 
 ### Technologies 
 * Visual Studio Code
