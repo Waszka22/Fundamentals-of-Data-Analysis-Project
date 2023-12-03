@@ -2,9 +2,9 @@
 
 ## Introduction
 This repository is used for the project given by the lecture on
-Fundamentals of Data Analaysis module on Higher Diploma in Science in Computing in Data Analytics at ATU.  
+Fundamentals of Data Analaysis module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>.  
 ***
-### Problem Statement
+### Problem Statementgit 
 
 * The project is to create a notebook investigating the variables and
 data points within the well-known iris flower data set associated
@@ -21,7 +21,7 @@ set.
 ***
 ### How to run the code
 + 1.Instal Python 
-+ 2.Download or clone current repository PfDA_Assigment
++ 2.Download or clone current repository Fundamentals-of-Data-Analysis-Project
 + 3.Open Command Interpreter and get into correct directory
 + 4.Install packages by running pip install -r requirements.txt 
 + 5.Run Jupyter Notebook
