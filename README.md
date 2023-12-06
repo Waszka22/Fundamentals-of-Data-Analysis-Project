@@ -4,7 +4,7 @@
 This repository is used for the project given by the lecture on
 Fundamentals of Data Analaysis module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>.  
 ***
-### Problem Statementgit 
+### Problem Statement
 
 * The project is to create a notebook investigating the variables and
 data points within the well-known iris flower data set associated
@@ -32,7 +32,7 @@ set.
 
 ### Content of repository 
 * The Readme file
-* The project notebook 
+* The project.ipynb notebook 
 * irish.data.csv file 
 
 
