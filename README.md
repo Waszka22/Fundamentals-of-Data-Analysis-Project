@@ -39,6 +39,7 @@ Python 3.10.9 version was used
 ### Technologies 
 Applications used for project
 * [The Jupyter Notebook](https://jupyter.org/)
+* [Anacomda](https://www.anaconda.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Cmder git](https://cmder.app/)
 
