@@ -41,7 +41,7 @@ Applications used for project
 * [The Jupyter Notebook](https://jupyter.org/)
 * [Anacomda](https://www.anaconda.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Cmder git](https://cmder.app/)
+* [Cmder](https://cmder.app/)
 
 ***
 
